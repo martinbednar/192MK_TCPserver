@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 from tcpcom import TCPServer
 
 IP_PORT = 22000
